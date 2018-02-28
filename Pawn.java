@@ -1,5 +1,5 @@
 /**
- * Represents a chess piece that is a rook.
+ * Represents a chess piece that is a pawn.
  *
  * @author amarino6
  * @version 1.0
