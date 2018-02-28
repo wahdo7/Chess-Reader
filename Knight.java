@@ -1,3 +1,10 @@
+/**
+ * Represents a chess piece that is a knight.
+ *
+ * @author amarino6
+ * @version 1.0
+ */
+
 public class Knight extends Piece {
 
     public Knight(Color color) {
